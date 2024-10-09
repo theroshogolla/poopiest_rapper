@@ -1,4 +1,5 @@
 import os
+import lyricsgenius as genius
 import requests
 import urllib.parse
 import json
@@ -13,10 +14,17 @@ def setup_credentials() -> dict:
         headers = {'Authorization': f'bearer {os.environ["CLIENT_ACCESS_TOKEN"]}'}
         return headers
 
-URL = 'https://api.genius.com'
+URL = 'https://genius.com/api'
 headers = setup_credentials()
 
-res = requests.get(f'{URL}/search?q={urllib.parse.quote("Dr. Dre")}', headers=headers)
+params = { 'q': 'Rakim'}
+
+res = requests.get(f'{URL}/search/multi', params=params)
 
 with open('response_song', 'w') as f:
     f.write(json.dumps(res.json()))
+
+
+# api = genius.Genius()
+
+# jid = api.search_artist('JID', max_songs=50)

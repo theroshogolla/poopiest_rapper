@@ -23,9 +23,9 @@ id,title,url,artist_id
 10755267,We Pray (Be Our Guest),https://genius.com/Coldplay-little-simz-burna-boy-elyanna-and-tini-we-pray-be-our-guest-lyrics,166056
 6729160,I See You,https://genius.com/Little-simz-i-see-you-lyrics,166056
 6729169,Miss Understood,https://genius.com/Little-simz-miss-understood-lyrics,166056
+10742149,WE PRAY (TINI Version),https://genius.com/Coldplay-little-simz-burna-boy-elyanna-and-tini-we-pray-tini-version-lyrics,166056
 4325925,Wounds,https://genius.com/Little-simz-wounds-lyrics,166056
 6729159,Standing Ovation,https://genius.com/Little-simz-standing-ovation-lyrics,166056
-10742149,WE PRAY (TINI Version),https://genius.com/Coldplay-little-simz-burna-boy-elyanna-and-tini-we-pray-tini-version-lyrics,166056
 4325927,Pressure,https://genius.com/Little-simz-pressure-lyrics,166056
 4325931,Flowers,https://genius.com/Little-simz-flowers-lyrics,166056
 4325929,Sherbet Sunset,https://genius.com/Little-simz-sherbet-sunset-lyrics,166056
@@ -48,6 +48,7 @@ id,title,url,artist_id
 6729155,Little Q, Pt. 1 (Interlude),https://genius.com/Little-simz-little-q-pt-1-interlude-lyrics,166056
 3026601,Location (London Remix),https://genius.com/Khalid-location-london-remix-lyrics,166056
 3503037,Proud of Me,https://genius.com/Mahalia-proud-of-me-lyrics,166056
+10915227,WE PRAY,https://genius.com/Coldplay-little-simz-burna-boy-elyanna-and-tini-we-pray-lyrics,166056
 8623747,Control,https://genius.com/Little-simz-control-lyrics,166056
 2463294,Back To My Love,https://genius.com/Becky-hill-back-to-my-love-lyrics,166056
 7248415,Venom (Remix),https://genius.com/Little-simz-venom-remix-lyrics,166056
@@ -81,7 +82,6 @@ id,title,url,artist_id
 2935372,Bad to the Bone,https://genius.com/Little-simz-bad-to-the-bone-lyrics,166056
 404988,Mandarin Oranges Part 2,https://genius.com/Little-simz-mandarin-oranges-part-2-lyrics,166056
 2309486,God Bless Mary,https://genius.com/Little-simz-god-bless-mary-lyrics,166056
-10915227,WE PRAY,https://genius.com/Coldplay-little-simz-burna-boy-elyanna-and-tini-we-pray-lyrics,166056
 570339,Time Capsule,https://genius.com/Little-simz-time-capsule-lyrics,166056
 10028768,Fever,https://genius.com/Little-simz-fever-lyrics,166056
 4557890,Pink Youth,https://genius.com/Yuna-and-little-simz-pink-youth-lyrics,166056
@@ -89,8 +89,8 @@ id,title,url,artist_id
 408853,Bars Simzson,https://genius.com/Little-simz-bars-simzson-lyrics,166056
 5515774,​damn right,https://genius.com/Little-simz-damn-right-lyrics,166056
 3275938,Our Conversations,https://genius.com/Little-simz-and-badbadnotgood-our-conversations-lyrics,166056
-2935367,Her (Interlude),https://genius.com/Little-simz-her-interlude-lyrics,166056
 10648103,Satellite Business 2.0,https://genius.com/Sampha-and-little-simz-satellite-business-20-lyrics,166056
+2935367,Her (Interlude),https://genius.com/Little-simz-her-interlude-lyrics,166056
 2310323,Persons,https://genius.com/Little-simz-persons-lyrics,166056
 407183,The Hamptons,https://genius.com/Little-simz-the-hamptons-lyrics,166056
 2841091,Interlude,https://genius.com/Little-simz-interlude-lyrics,166056
@@ -144,3 +144,49 @@ id,title,url,artist_id
 698610,The Rhythm (Remix),https://genius.com/Mnek-the-rhythm-remix-lyrics,166056
 641267,No Introduction,https://genius.com/Little-simz-no-introduction-lyrics,166056
 3730778,Bombo Fabrika Remix,https://genius.com/Gabriel-garzon-montano-bombo-fabrika-remix-lyrics,166056
+407313,BAD (Lord Forgive Me),https://genius.com/Little-simz-bad-lord-forgive-me-lyrics,166056
+2942467,Top Down,https://genius.com/Little-simz-top-down-lyrics,166056
+668572,Frozen,https://genius.com/Little-simz-frozen-lyrics,166056
+541774,The Square,https://genius.com/Little-simz-the-square-lyrics,166056
+2310360,This Is Not an Outro,https://genius.com/Little-simz-this-is-not-an-outro-lyrics,166056
+3120943,Clint Eastwood (Live at Demon Dayz Festival),https://genius.com/Gorillaz-clint-eastwood-live-at-demon-dayz-festival-lyrics,166056
+557152,AGE 101 (Director’s Cut),https://genius.com/Little-simz-age-101-directors-cut-lyrics,166056
+3309363,Stained Subconsciousness,https://genius.com/Little-simz-stained-subconsciousness-lyrics,166056
+557154,Sleep Paralysis,https://genius.com/Little-simz-sleep-paralysis-lyrics,166056
+561028,Starry Eyed,https://genius.com/Little-simz-starry-eyed-lyrics,166056
+667087,Closer,https://genius.com/Little-simz-closer-lyrics,166056
+3595953,01. Desire,https://genius.com/Little-simz-01-desire-lyrics,166056
+3309362,Kiki’s Future,https://genius.com/Little-simz-kikis-future-lyrics,166056
+3340642,Days Like This (Interlude),https://genius.com/Little-simz-days-like-this-interlude-lyrics,166056
+3309224,Don’t Ruin It,https://genius.com/Little-simz-dont-ruin-it-lyrics,166056
+3309157,Love In The Key Of E.T.,https://genius.com/Little-simz-love-in-the-key-of-et-lyrics,166056
+3309361,Tattoos,https://genius.com/Little-simz-tattoos-lyrics,166056
+3169757,The Book,https://genius.com/Otg-britania-the-book-annotated,166056
+606041,P.B.G (Pretty Boy Gangsta),https://genius.com/Little-simz-pbg-pretty-boy-gangsta-lyrics,166056
+8614942,Moving Alone*,https://genius.com/Little-simz-moving-alone-lyrics,166056
+557153,Homosapiens vs Aliens,https://genius.com/Little-simz-homosapiens-vs-aliens-lyrics,166056
+667080,Used to Know,https://genius.com/Little-simz-used-to-know-lyrics,166056
+3590781,01. Yesterday’s Painting,https://genius.com/Little-simz-01-yesterdays-painting-lyrics,166056
+2836302,So Human (Little Simz Version),https://genius.com/Rosie-lowe-so-human-little-simz-version-lyrics,166056
+3309158,Blank Canvas (Interlude),https://genius.com/Little-simz-blank-canvas-interlude-lyrics,166056
+3308885,Yesterday’s Painting,https://genius.com/Little-simz-yesterdays-painting-lyrics,166056
+3308871,Desire,https://genius.com/Little-simz-desire-lyrics,166056
+3593739,02. The Bells,https://genius.com/Little-simz-02-the-bells-lyrics,166056
+667089,Circles,https://genius.com/Little-simz-circles-lyrics,166056
+3309154,The Bells,https://genius.com/Little-simz-the-bells-lyrics,166056
+3309222,Heart Said,https://genius.com/Little-simz-heart-said-lyrics,166056
+3308872,Saur-Renity Rap-Tiles (Interlude),https://genius.com/Little-simz-saur-renity-rap-tiles-interlude-lyrics,166056
+3309156,Subject Matters,https://genius.com/Little-simz-subject-matters-lyrics,166056
+3308873,Mandarin Oranges (Bonus Track),https://genius.com/Little-simz-mandarin-oranges-bonus-track-lyrics,166056
+4153621,Breakfast,https://genius.com/Little-simz-breakfast-lyrics,166056
+3309230,Mist,https://genius.com/Little-simz-mist-lyrics,166056
+10593982,The Code,https://genius.com/Little-simz-the-code-lyrics,166056
+3309159,Another One,https://genius.com/Little-simz-another-one-lyrics,166056
+9794393,Lost Without U (Robin Thicke cover) in the Live Lounge,https://genius.com/Little-simz-lost-without-u-robin-thicke-cover-in-the-live-lounge-lyrics,166056
+4153622,Diamond,https://genius.com/Little-simz-diamond-lyrics,166056
+8484289,Introvert / Woman (Live at the BRIT Awards 2022),https://genius.com/Little-simz-introvert-woman-live-at-the-brit-awards-2022-lyrics,166056
+4892632,Flowers [Live at Metropolis Studios, London, 2019],https://genius.com/Little-simz-flowers-live-at-metropolis-studios-london-2019-lyrics,166056
+5580426,The Nest,https://genius.com/Faze-miyake-the-nest-lyrics,166056
+3309161,Leave It As That (RMX),https://genius.com/Little-simz-leave-it-as-that-rmx-lyrics,166056
+10271683,​might bang, might not (Mixed),https://genius.com/Little-simz-might-bang-might-not-mixed-lyrics,166056
+4153628,Leave It As That,https://genius.com/Little-simz-leave-it-as-that-lyrics,166056
